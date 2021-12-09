@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://github.com/shawliux">
-    <img src="https://github-readme-stats.vercel.app/api?username=shawliux&theme=vue" alt="Xu's Github Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=shawliux&theme=default" alt="Xu's Github Stats" >
     </a>
 </p>
 
