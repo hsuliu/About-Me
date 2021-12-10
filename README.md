@@ -44,11 +44,11 @@ Here are some ideas to get you started:
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shawliux&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<p align="center">
+<!-- <p align="center">
     <a href="https://github.com/shawliux">
     <img src="https://github-readme-stats.vercel.app/api?username=shawliux&theme=default" alt="Xu's Github Stats" >
     </a>    
-</p>
+</p> -->
 
 <!-- [![Xu's GitHub stats](https://github-readme-stats.vercel.app/api?username=shawliux)](https://github.com/anuraghazra/github-readme-stats) -->
 
