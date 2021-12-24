@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 - 🔭 Master of Eng. in Computer Engineering [Univ. of Illinois, Urbana-Champaign](https://illinois.edu/)
 
-- 📫 If you need any further info, please feel free to contact me: shawliux@gmail.com
+- 📫 If you need any further info, please feel free to contact me: shawliux at gmail dot com OR [LinkedIn](https://linkedin.com/in/hsuliu/)
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
