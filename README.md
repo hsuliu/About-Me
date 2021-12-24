@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi~ I'm Xu Liu</h1>
-<h3 align="center">I am interested in CS & TECH, and actively seeking for 2022 summer SDE intern.</h3>
+<h3 align="center">I am interested in CS & TECH, and actively seeking 2022 summer SDE intern.</h3>
 
 - 🔭 Master of Eng. in Computer Engineering [Univ. of Illinois, Urbana-Champaign](https://illinois.edu/)
 
