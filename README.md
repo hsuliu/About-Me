@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Ray👋🏻
-# I am interested in CS & TECH, now I work as Software Dev Engineer at AWS.
+<h1 align="center">Hi~ I'm Ray</h1>
+<h3 align="center">I am interested in CS & TECH, now work as a Software Dev Engineer at AWS.</h3>
 
 ![](https://img.shields.io/badge/-Python-2f78c3?logo=Python&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
@@ -28,12 +28,16 @@ Here are some ideas to get you started:
 A little about me:
 
 - 🔭 Master of Eng. in Computer Engineering [Univ. of Illinois at Urbana-Champaign](https://illinois.edu/)
-- 📫 Reach out to me by [Email](mailto:raymond.xu.liu@gmail.com), or find me on [Twitter](https://twitter.com/jacinjiyan) and [Linkedin](https://linkedin.com/in/hsuliu/) !
+- 📫 Reach out to me by [Email](mailto:raymond.xu.liu@gmail.com), or find me on [Linkedin](https://linkedin.com/in/hsuliu/) !
 
+<!--
+- 📫 Reach out to me by [Email](mailto:raymond.xu.liu@gmail.com), or find me on [Twitter](https://twitter.com/jacinjiyan) and [Linkedin](https://linkedin.com/in/hsuliu/) !
+-->
+
+<!--
 [![Jacin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsuliu&theme=algolia&show_icons=true)](https://github.com/hsuliu/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsuliu&layout=compact&theme=algolia)](https://github.com/hsuliu/github-readme-stats)
-
-
+-->
 
 
 <!--
