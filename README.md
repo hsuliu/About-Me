@@ -30,8 +30,9 @@ A little about me:
 - 🔭 Master of Eng. in Computer Engineering [Univ. of Illinois at Urbana-Champaign](https://illinois.edu/)
 - 📫 Reach out to me by [Email](mailto:raymond.xu.liu@gmail.com), or find me on [Twitter](https://twitter.com/jacinjiyan) and [Linkedin](https://linkedin.com/in/hsuliu/) !
 
-[![Jacin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacinyan&theme=algolia&show_icons=true)](https://github.com/jacinyan/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacinyan&layout=compact&theme=algolia)](https://github.com/jacinyan/github-readme-stats)
+[![Jacin's GitHub stats](https://github-readme-stats.vercel.app/api?username=hsuliu&theme=algolia&show_icons=true)](https://github.com/hsuliu/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hsuliu&layout=compact&theme=algolia)](https://github.com/hsuliu/github-readme-stats)
+
 
 
 
