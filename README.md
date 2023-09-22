@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi~ I'm Ray</h1>
-<h3 align="center">I am interested in CS & TECH, now work as a Software Dev Engineer at AWS.</h3>
+<h1 align="center"> Hi~ I'm Ray</h1>
+<h3 align="center"> I am interested in CS & TECH, now work as a Software Dev Engineer at AWS. </h3>
 
 ![](https://img.shields.io/badge/-Python-2f78c3?logo=Python&logoColor=white&style=flat)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black&style=flat)
