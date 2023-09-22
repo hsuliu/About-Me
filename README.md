@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hi~ I'm Ray</h1>
+<h3 align="center">I am interested in CS & TECH, now I work as Software Dev Engineer at AWS.</h3>
+
 <h1 align="center"> Hi~ I'm Ray</h1>
 <h3 align="center"> I am interested in CS & TECH, now work as a Software Dev Engineer at AWS. </h3>
 
